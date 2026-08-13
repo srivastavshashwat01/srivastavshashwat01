@@ -1,30 +1,96 @@
 # Hi, I'm Shashwat Srivastava 👋
 
-### Finance | Investment Banking Operations | AML/KYC | Financial Markets
+### Finance | Investment Banking Operations | Middle Office | AML/KYC
 
-I am a finance professional building my career in Investment Banking Operations and Middle Office functions, with a strong interest in AML/KYC, financial markets, trade operations, reference data and process management.
+Finance professional building a career in **Investment Banking Operations and Middle Office functions**, with a strong interest in **financial markets, AML/KYC, trade operations, reconciliation, reference data and process management**.
 
-I enjoy understanding how financial transactions move through the operational lifecycle, identifying risks and process gaps, and using tools such as MS Excel and data-driven analysis to improve accuracy and efficiency.
-
-## 📌 About Me
-
-- 🎓 MBA in Finance & Marketing
-- 🏦 Interested in Investment Banking & Financial Markets
-- 📊 Focused on Investment Banking Operations and Middle Office
-- 🔎 Interested in AML, KYC, CDD & Risk Management
-- 📈 Developing skills in Excel, financial analysis & data management
-- 🔄 Interested in Trade Life Cycle, Reconciliation, Corporate Actions & Reference Data
-- 🚀 Continuously learning and building practical finance projects
-
-## 🛠️ Skills & Areas of Interest
-
-**Investment Banking Operations | Middle Office | AML/KYC | Trade Operations | Reconciliation | Reference Data | Financial Markets | MS Excel | Financial Analysis**
-
-## 📂 Featured Project
-
-### Investment Banking Operations
-A practical portfolio exploring Trade Life Cycle, Settlement, Reconciliation, Trade Fail Management and Reference Data.
+I use this GitHub profile to document my learning, financial research and practical projects related to Investment Banking Operations.
 
 ---
 
-*Currently building practical knowledge and projects in Investment Banking Operations and Financial Markets.*
+## 💼 Professional Focus
+
+**Investment Banking Operations**
+
+* Trade Life Cycle
+* Trade Confirmation & Affirmation
+* Settlement Operations
+* Trade Fail Management
+* Reconciliation
+* Corporate Actions
+* Reference Data Management
+
+**Risk & Compliance**
+
+* AML / KYC
+* CDD / EDD
+* Sanctions Screening
+* Transaction Monitoring
+* Customer Risk Assessment
+* Operational Risk
+
+**Financial Markets**
+
+* Equity Markets
+* Debt Markets
+* IPOs & OFS
+* Market Research
+* Financial Analysis
+
+---
+
+## 🛠️ Skills & Tools
+
+**Finance & Operations**
+
+`Investment Banking Operations` `Middle Office` `AML/KYC` `Financial Markets` `Risk Analysis` `Reconciliation` `Reference Data`
+
+**Tools**
+
+`MS Excel` `Pivot Tables` `VLOOKUP/XLOOKUP` `Financial Analysis` `PowerPoint`
+
+---
+
+## 📂 Featured Project
+
+### 🏦 Investment Banking Operations
+
+A practical portfolio exploring the operational lifecycle of financial transactions.
+
+**Topics covered:**
+
+* 🔄 Trade Life Cycle
+* 💰 Settlement Process
+* ⚠️ Trade Fail Management
+* 📊 Reconciliation
+* 🗂️ Reference Data Management
+* 🛡️ AML/KYC Operations
+
+👉 **Explore the full portfolio through my repositories below.**
+
+---
+
+## 📚 Currently Learning
+
+* Investment Banking Operations
+* Middle Office Processes
+* AML/KYC & Financial Crime Risk
+* Financial Markets
+* Advanced Excel
+* Data & Process Analysis
+
+---
+
+## 🎯 Career Objective
+
+To build a career in **Investment Banking Operations / Middle Office**, where I can apply my finance knowledge, analytical thinking and problem-solving abilities to support efficient, accurate and controlled financial processes.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with professionals working in:
+
+**Investment Banking | Financial Markets | Operations | Middle Office | Risk | AML/KYC**
+
+Thanks for visiting my profile! 🚀
